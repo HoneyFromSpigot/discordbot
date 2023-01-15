@@ -16,6 +16,18 @@ This Discord bot, created by TheWebcode, provides information and news about a s
 - Posts the TikTok user's latest video to the designated Discord channel.
 - Keeps track of the TikTok user's follower count and alerts the channel when there is a significant increase or decrease.
 
+## Terms of Service
+
+By using this bot, you agree to the following terms of service:
+
+- The bot does not collect any user data from those who use it.
+- No data is stored by the bot or its creators.
+- A TikTok account may be required for certain features of the bot, but any login information or other data will not be stored.
+
+## Privacy Policy
+
+We take the privacy of our users seriously and do not collect or store any personal data. We respect the privacy of our users and will not share or disclose any information without consent.
+
 ## Note 
 
 Keep in mind that this bot is using TikTok's public API, some information may not be available for all users.
