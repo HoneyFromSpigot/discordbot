@@ -37,6 +37,6 @@ Keep in mind that this bot is using TikTok's public API, some information may no
 If you encounter any issues or have any questions about this bot, please contact TheWebcode for support.
 
 
-##Got Redirected?
+## Got Redirected?
 
 Were you redirected here? No problem. You have now connected your TikTok account to the bot. Your data will not be saved.
